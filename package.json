@@ -28,6 +28,8 @@
     "axios": "^1.5.0",
     "fs": "^0.0.1-security",
     "moment": "^2.29.4",
+    "node-pdftoppm": "^2.0.1",
+    "node-poppler": "^7.1.0",
     "path": "^0.12.7",
     "puppeteer": "^21.3.6",
     "reflect-metadata": "^0.1.13",
